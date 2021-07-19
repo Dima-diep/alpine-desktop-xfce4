@@ -7,3 +7,4 @@ apk add xfce4 thunar-volman faenza-icon-theme-xfce4 slim xfce4-terminal
 rc-service dbus start
 rc-update add dbus
 echo "For starting desktop, run startxfce4 for every session" > howtorun.txt
+echo "Check howtorun.txt for starting desktop for every starting Alpine system"
